@@ -1,0 +1,18 @@
+﻿@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* CSS variables + helpers */
+:root{
+  --accent: #7c5cff;
+  --text: #0f172a;
+  --muted: #6b7280;
+  --card: #ffffff;
+}
+.theme-dark { --text:#e6eef8; --muted:#9aa6bf; --card:#071022; background: #071022; }
+.theme-light { --text:#0f172a; --muted:#6b7280; --card:#ffffff; background: #f8fafc; }
+
+html,body,#app{height:100%}
+.container-custom{ max-width:1100px; margin-left:auto;margin-right:auto;padding-left:1rem;padding-right:1rem; }
+
+.card{ background-color:var(--card); color:var(--text); border-radius:14px; box-shadow:0 6px 20px rgba(2,6,23,0.08); }

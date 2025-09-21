@@ -1,0 +1,27 @@
+npm verbose cli C:\Program Files\nodejs\node.exe C:\Users\ADMIN\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+npm info using npm@11.6.0
+npm info using node@v22.19.0
+npm verbose title npm install tailwindcss@latest postcss@latest autoprefixer@latest
+npm verbose argv "install" "--save-dev" "tailwindcss@latest" "postcss@latest" "autoprefixer@latest" "--loglevel" "verbose"
+npm verbose logfile logs-max:10 dir:C:\Users\ADMIN\AppData\Local\npm-cache\_logs\2025-09-12T10_41_52_974Z-
+npm verbose logfile C:\Users\ADMIN\AppData\Local\npm-cache\_logs\2025-09-12T10_41_52_974Z-debug-0.log
+npm http fetch GET 200 https://registry.npmjs.org/autoprefixer 209ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/postcss 215ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/tailwindcss 229ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/autoprefixer 44ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/postcss 35ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/tailwindcss 59ms (cache revalidated)
+npm http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 282ms
+
+up to date, audited 92 packages in 1s
+
+11 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+npm verbose cwd C:\Personal portfolio website\Project\my-vignesh-portfolio
+npm verbose os Windows_NT 10.0.26100
+npm verbose node v22.19.0
+npm verbose npm  v11.6.0
+npm verbose exit 0
+npm info ok
